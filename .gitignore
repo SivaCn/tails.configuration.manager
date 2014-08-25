@@ -4,4 +4,4 @@
 repos/*
 
 # Include files / Directories
-!repos/__init__.py
+!repos/README.md
