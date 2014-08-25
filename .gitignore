@@ -1,7 +1,10 @@
 # Exclude files
+*.un~
 
 # Exclude Directories
 repos/*
+packages/*
 
 # Include files / Directories
 !repos/README.md
+!packages/README.md
