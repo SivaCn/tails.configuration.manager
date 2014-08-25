@@ -1,0 +1,7 @@
+# Exclude files
+
+# Exclude Directories
+repos/*
+
+# Include files / Directories
+!repos/__init__.py
